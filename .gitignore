@@ -46,3 +46,9 @@ node_modules/
 
 # Miscellaneous
 *.log
+
+# Assignment/utility files
+*.docx
+assignment_content.txt
+read_docx.py
+read_docx2.py
